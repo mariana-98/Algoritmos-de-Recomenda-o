@@ -1,2 +1,2 @@
-# Algoritmos-de-Recomenda-o
+# Algoritmos-de-Recomendacao
 Conteúdos, aulas e scripts relacionados a algoritmos de recomendação
