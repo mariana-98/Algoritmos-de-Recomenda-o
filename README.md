@@ -1,2 +1,2 @@
-# Algoritmos-de-Recomendacao
-Conteúdos, aulas e scripts relacionados a algoritmos de recomendação
+# Python Basics
+Conteúdos, aulas e scripts relacionados às práticas iniciais em Puthon
